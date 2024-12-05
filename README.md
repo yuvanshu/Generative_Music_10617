@@ -1,6 +1,6 @@
 # 0. Accessing Data Files
 
-### **See Google Drive Link**
+### **See Google Drive Link - Download Files Into Saved Files Directory**
 https://drive.google.com/drive/folders/17bAlWUlHYeVjcpKgDeOjnsLHY3uCfl6F?usp=drive_link
 
 # 1. Latent Diffusion
