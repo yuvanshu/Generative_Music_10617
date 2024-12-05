@@ -1,3 +1,8 @@
+# 0. Accessing Data Files
+
+### **See Google Drive Link**
+https://drive.google.com/drive/folders/17bAlWUlHYeVjcpKgDeOjnsLHY3uCfl6F?usp=drive_link
+
 # 1. Latent Diffusion
 
 ## 1.1 **Data Pre-processing**
