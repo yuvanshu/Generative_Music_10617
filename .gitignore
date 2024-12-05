@@ -1,0 +1,16 @@
+maestro-v2.0.0/
+
+piano_roll_images/
+piano_roll_images_RBM/
+
+generated_images/
+
+midi_files/
+
+wav_files/
+
+__pycache__/
+
+.idea/
+
+.DS_Store
